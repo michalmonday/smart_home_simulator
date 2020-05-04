@@ -20,9 +20,11 @@ Download and extract [release.zip](https://cseegit.essex.ac.uk/2019_ce292/ce292_
 
 # Documentation
 Several documents were created about the program to show what it does and how it does it:  
-[Demonstration](https://cseegit.essex.ac.uk/2019_ce292/ce292_team_2/blob/master/Final%20Product%20Report%20Documents/ProductDemonstration.md) - what features the program has and how they look like.  
-[Implementation](https://cseegit.essex.ac.uk/2019_ce292/ce292_team_2/blob/master/Final%20Product%20Report%20Documents/ProductImplementationReport.md) - what design patterns were used, how some of the notable features were implemented.  
-[Testing](https://cseegit.essex.ac.uk/2019_ce292/ce292_team_2/blob/master/Final%20Product%20Report%20Documents/TestReport.md) - what testing methods were used during development.  
+[Demonstration](https://github.com/michalmonday/smart_home_simulator/blob/master/Final%20Product%20Report%20Documents/ProductDemonstration.md) - what features the program has and how they look like.  
+[Implementation](https://github.com/michalmonday/smart_home_simulator/blob/master/Final%20Product%20Report%20Documents/ProductImplementationReport.md) - what design patterns were used, how some of the notable features were implemented.  
+[Testing](https://github.com/michalmonday/smart_home_simulator/blob/master/Final%20Product%20Report%20Documents/TestReport.md) - what testing methods were used during development.  
+
+Please note that these documents were hosted on GitLab during development (so links inside them may lead to inaccessible pages on GitLab/Jira).  
 
 # Background
 The program was created by 2nd year University of Essex students (team 2) for the "CE292 Team Project" module, including:  
@@ -31,6 +33,7 @@ The program was created by 2nd year University of Essex students (team 2) for th
 •	Jonathan Devaux  
 •	Leon Sebastian  
 •	Michal Borowski  
+
 
 # Additional Credits
 :star: Zooming functionality - [Pavel Strakhov](https://stackoverflow.com/users/344347/pavel-strakhov) ([answer](https://stackoverflow.com/a/19114517/4620679) to stackoverflow question)   
